@@ -1,0 +1,252 @@
+<mxfile host="app.diagrams.net" modified="2024-03-25T14:00:09.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="39GcbkFZW2cq20cNE-s_" version="24.0.7" type="device">
+  <diagram name="Página-1" id="QWFOb0MTDamxUO4PhK0_">
+    <mxGraphModel dx="1927" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-4" target="QGArCH3yRqsjWq9M9W9a-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-4" target="QGArCH3yRqsjWq9M9W9a-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-4" value="&lt;h3&gt;Sistemas Tecnologicos&lt;/h3&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-6" value="&lt;h4&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Primer Año&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-8" target="QGArCH3yRqsjWq9M9W9a-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-8" value="&lt;h4&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Segundo Año&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="732.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-10" value="&lt;h4&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Tercer Año&lt;/font&gt;&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="870" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-15" target="QGArCH3yRqsjWq9M9W9a-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-15" target="QGArCH3yRqsjWq9M9W9a-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-15" target="QGArCH3yRqsjWq9M9W9a-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-15" target="QGArCH3yRqsjWq9M9W9a-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-15" target="QGArCH3yRqsjWq9M9W9a-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-15" target="QGArCH3yRqsjWq9M9W9a-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-15" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Operadores Mecánicos y Mecanismos&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="45" y="390" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-19" target="QGArCH3yRqsjWq9M9W9a-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-19" target="QGArCH3yRqsjWq9M9W9a-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-19" target="QGArCH3yRqsjWq9M9W9a-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-19" target="QGArCH3yRqsjWq9M9W9a-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="430" />
+              <mxPoint x="690" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-19" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Sistemas&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Eléctricos&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="390" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-20" value="&amp;nbsp;Concepto y elementos que componen un sistema&lt;br/&gt;mecánico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="317.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-21" value="Representación y Construcción" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-28" target="QGArCH3yRqsjWq9M9W9a-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-28" target="QGArCH3yRqsjWq9M9W9a-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-28" target="QGArCH3yRqsjWq9M9W9a-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-28" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Sistemas&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Hidráulicos&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="45" y="910" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#000000;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-37" target="QGArCH3yRqsjWq9M9W9a-154">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-37" target="QGArCH3yRqsjWq9M9W9a-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-37" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Diseño Tec. Definido por la&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Institucion&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="37.5" y="1260" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-41" target="QGArCH3yRqsjWq9M9W9a-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-41" target="QGArCH3yRqsjWq9M9W9a-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-41" target="QGArCH3yRqsjWq9M9W9a-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="950" />
+              <mxPoint x="690" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-41" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Sistemas de&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Auto. y Control&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="345" y="910" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-108" target="QGArCH3yRqsjWq9M9W9a-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-108" target="QGArCH3yRqsjWq9M9W9a-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-108" value="Mecánica Simple" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-109" value="Volante" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-111" value="Polea Fija y Movil" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-115" value="Ruedas de fricción&lt;div&gt;Poleas y engranajes&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-116" target="QGArCH3yRqsjWq9M9W9a-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-116" target="QGArCH3yRqsjWq9M9W9a-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-116" target="QGArCH3yRqsjWq9M9W9a-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-116" target="QGArCH3yRqsjWq9M9W9a-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-116" value="Mecanismos para la transmisión de movimientos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-117" value="&lt;div&gt;Manivela corredera. Biela y manivela&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-122" value="&lt;div&gt;Correas.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Reducción y multiplicación del&lt;/span&gt;&lt;/div&gt;&lt;div&gt;movimiento por correas&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-123" value="&lt;div&gt;Tornillo y&lt;br/&gt;tuerca. Cigüeñal. Piñón y cremallera&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-128" target="QGArCH3yRqsjWq9M9W9a-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-128" value="Concepto y elementos que componen un sistema hidráulico" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-131" target="QGArCH3yRqsjWq9M9W9a-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-131" target="QGArCH3yRqsjWq9M9W9a-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-131" value="Características de los fluidos" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-135" value="Propiedades" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-137" value="Comportamiento del fluido en la circulación por conductos" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-140" value="&lt;b&gt;Proyecto De&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Biela Manivela&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1420" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-144" value="Concep y Elem, Representación&lt;div&gt;Diseño y Const de un circuito Elect.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="120" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-146" value="Principios y Magnit.&amp;nbsp;&lt;div&gt;Concep de control manual y automatico.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="120" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-149" value="Análisis descriptivo y funcional de circuitos sencillos: con pilas, lámparas,&lt;br/&gt;motores, interruptores, conmutadores, pulsadores, fusibles, etc." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-150" value="Concepto y elementos.&lt;div&gt;. Diseño y construcción&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-152" value="&lt;div&gt;&amp;nbsp;El concepto de control.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Debate y reflexión acerca de la transferencia de funciones humana a la máquina&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1030" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-154" target="QGArCH3yRqsjWq9M9W9a-157">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="1420.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-154" target="QGArCH3yRqsjWq9M9W9a-161">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="1300" />
+              <mxPoint x="690" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-154" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Diseño Tec. Definido por la&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Institucion&lt;/b&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="1260" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-157" value="&lt;b&gt;Proyecto de Biela y&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;Balancín&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1410" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QGArCH3yRqsjWq9M9W9a-161" target="QGArCH3yRqsjWq9M9W9a-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-161" value="&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Los sistemas tecnológicos: Diseño y construcción (bienes o servicios) vinculados a ámbitos productivos locales y en relación con las distintas tecnicaturas que serán definidas por la institución. Los procesos de producción y&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;las pequeñas industrias. Los procesos primarios: extracción, recolección o explotación de los insumos. Embalaje, almacenamiento y distribución. Los procesos secundarios: abastecimiento de insumos (materia prima). Elaboración o fabricación de productos tecnológicos. Control de calidad y evaluación de la producción, Las normas y el control, transporte y distribución.&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="765" y="640" width="330" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QGArCH3yRqsjWq9M9W9a-168" value="&lt;b&gt;Proyecto Integrador donde se contemplen la implementación de las 3 áreas.&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1040" width="200" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
